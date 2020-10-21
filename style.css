@@ -37,3 +37,8 @@ h1 {
     margin-left: 16px;
 }
 
+@media (max-width: 450px){
+    body {
+        line-height: 1.1;
+    }
+}
