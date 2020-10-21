@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400&display=swap');
+body {
+    width: 100vw;
+    height: 100vh;
+    font-family: Space Mono;
+    background-color: #000;
+    color: #10EB33;
+    font-size: 16px;
+    line-height: 0.8;
+    padding: 20px;
+   
+
+
+}
+
+a {
+    color: #10EB33;
+    font-weight: 700;
+}
+
+
+
+input {
+    background-color: #000;
+    color: #10EB33;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    font-family: Space Mono;
+}
+
+h1 {
+    font-size: 3em;
+}
+.indent {
+    margin-left: 16px;
+}
+
